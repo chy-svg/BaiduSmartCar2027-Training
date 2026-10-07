@@ -19,3 +19,7 @@
 2026/10/7 13:56
 创建python脚本将原始bbox.json转换为聚合json，由于bbox.json置信度阈值与目标检测可视化结果置信度阈值不同，导致result.json中内容无法与实际识别内容对应。重新设置模型阈值后得到正确结果
 陈沐阳
+
+
+2026/10/7 14:15
+修改gitignore中的内容，允许output文件夹上次至github，同时修改results.json，将img_*统一修改为 vis_。

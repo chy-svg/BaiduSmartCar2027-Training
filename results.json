@@ -2,7 +2,7 @@
   "model": "yolov3_darknet53_270e_coco",
   "images": [
     {
-      "file": "img_1.jpg",
+      "file": "vis_1.jpg",
       "detections": [
         {
           "class": "person",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "file": "img_2.jpg",
+      "file": "vis_2.jpg",
       "detections": [
         {
           "class": "cow",
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "file": "img_3.jpg",
+      "file": "vis_3.jpg",
       "detections": [
         {
           "class": "sheep",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "file": "img_4.jpg",
+      "file": "vis_4.jpg",
       "detections": [
         {
           "class": "motorcycle",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "file": "img_5.jpg",
+      "file": "vis_5.jpg",
       "detections": [
         {
           "class": "banana",

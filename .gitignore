@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
-output/vis_*.jpg
+#  output/vis_*.jpg
 !output/.gitkeep
 dataset/
 runs/
