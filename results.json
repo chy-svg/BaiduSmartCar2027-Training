@@ -1,0 +1,60 @@
+{
+  "model": "yolov3_darknet53_270e_coco",
+  "images": [
+    {
+      "file": "img_1.jpg",
+      "detections": [
+        {
+          "class": "person",
+          "count": 2,
+          "max_score": 0.9699
+        }
+      ]
+    },
+    {
+      "file": "img_2.jpg",
+      "detections": [
+        {
+          "class": "cow",
+          "count": 6,
+          "max_score": 0.8947
+        }
+      ]
+    },
+    {
+      "file": "img_3.jpg",
+      "detections": [
+        {
+          "class": "sheep",
+          "count": 22,
+          "max_score": 0.9915
+        }
+      ]
+    },
+    {
+      "file": "img_4.jpg",
+      "detections": [
+        {
+          "class": "motorcycle",
+          "count": 1,
+          "max_score": 0.9222
+        },
+        {
+          "class": "car",
+          "count": 1,
+          "max_score": 0.6234
+        }
+      ]
+    },
+    {
+      "file": "img_5.jpg",
+      "detections": [
+        {
+          "class": "banana",
+          "count": 5,
+          "max_score": 0.9329
+        }
+      ]
+    }
+  ]
+}
