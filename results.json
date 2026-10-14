@@ -1,0 +1,494 @@
+{
+  "engine": "PP-OCRv4",
+  "images": [
+    {
+      "file": "sign_1.jpg",
+      "texts": [
+        {
+          "text": "雅都美妆",
+          "score": 0.9995
+        },
+        {
+          "text": "公交站点",
+          "score": 1.0
+        },
+        {
+          "text": "化妆品",
+          "score": 0.9997
+        },
+        {
+          "text": "KANGZE",
+          "score": 1.0
+        },
+        {
+          "text": "红荔园",
+          "score": 0.9995
+        },
+        {
+          "text": "本站名：",
+          "score": 0.9993
+        },
+        {
+          "text": "医保定点",
+          "score": 0.9914
+        },
+        {
+          "text": "原雅芳店",
+          "score": 1.0
+        },
+        {
+          "text": "Hongllyuan",
+          "score": 0.9985
+        },
+        {
+          "text": "32",
+          "score": 1.0
+        },
+        {
+          "text": "40",
+          "score": 1.0
+        },
+        {
+          "text": "104",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "file": "sign_2.jpg",
+      "texts": []
+    },
+    {
+      "file": "sign_3.jpg",
+      "texts": [
+        {
+          "text": "6",
+          "score": 0.9932
+        },
+        {
+          "text": "8",
+          "score": 1.0
+        },
+        {
+          "text": "葡萄冰美式",
+          "score": 0.9998
+        },
+        {
+          "text": "雪王咖啡",
+          "score": 0.9966
+        },
+        {
+          "text": "奋斗一杯！",
+          "score": 0.994
+        },
+        {
+          "text": "扫码点餐",
+          "score": 1.0
+        },
+        {
+          "text": "更快哦",
+          "score": 0.9998
+        },
+        {
+          "text": "点",
+          "score": 1.0
+        },
+        {
+          "text": "招聘",
+          "score": 1.0
+        },
+        {
+          "text": "117",
+          "score": 1.0
+        },
+        {
+          "text": "蓝莓养眼多",
+          "score": 0.9592
+        },
+        {
+          "text": "欢迎光",
+          "score": 0.9955
+        },
+        {
+          "text": "招聘",
+          "score": 1.0
+        },
+        {
+          "text": "扫码券",
+          "score": 0.9344
+        },
+        {
+          "text": "抖音：",
+          "score": 0.8529
+        },
+        {
+          "text": "小蜜帮忙",
+          "score": 0.9996
+        },
+        {
+          "text": "泽皓美业",
+          "score": 0.9997
+        },
+        {
+          "text": "果茶加",
+          "score": 0.8011
+        },
+        {
+          "text": "夏日救",
+          "score": 0.9985
+        },
+        {
+          "text": "高菌冰美式",
+          "score": 0.8594
+        }
+      ]
+    },
+    {
+      "file": "sign_4.jpg",
+      "texts": [
+        {
+          "text": "楊堤",
+          "score": 0.8346
+        },
+        {
+          "text": "保持水土、人人消责",
+          "score": 0.9515
+        },
+        {
+          "text": "To conserve water and soil resources",
+          "score": 0.9973
+        },
+        {
+          "text": "is an obligation to every body.",
+          "score": 0.9937
+        }
+      ]
+    },
+    {
+      "file": "sign_5.jpg",
+      "texts": [
+        {
+          "text": "福",
+          "score": 0.9998
+        },
+        {
+          "text": "出入平安事事",
+          "score": 0.9594
+        },
+        {
+          "text": "求财顺景方方利",
+          "score": 0.9256
+        }
+      ]
+    },
+    {
+      "file": "sign_6.jpg",
+      "texts": [
+        {
+          "text": "TIMBANG",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "file": "sign_7.jpg",
+      "texts": [
+        {
+          "text": "ofth",
+          "score": 0.9563
+        },
+        {
+          "text": "防鼠工作做得好",
+          "score": 0.9999
+        },
+        {
+          "text": "達例吸煙定",
+          "score": 0.8865
+        },
+        {
+          "text": "Offence $1,500",
+          "score": 0.9984
+        },
+        {
+          "text": "鼠患問題自然存",
+          "score": 0.9276
+        },
+        {
+          "text": "查詢熱線",
+          "score": 0.9415
+        },
+        {
+          "text": "1823",
+          "score": 1.0
+        },
+        {
+          "text": "提防",
+          "score": 0.9983
+        },
+        {
+          "text": "虛情假意真骗財",
+          "score": 0.8995
+        },
+        {
+          "text": "冷静求助快收線",
+          "score": 0.9868
+        },
+        {
+          "text": "不准藏放雜物",
+          "score": 0.8697
+        },
+        {
+          "text": "於通道上",
+          "score": 0.9999
+        },
+        {
+          "text": "遣者會被檢控",
+          "score": 0.8103
+        },
+        {
+          "text": "18222",
+          "score": 0.9998
+        },
+        {
+          "text": "清潔香港",
+          "score": 0.9771
+        },
+        {
+          "text": "Keep Hong Kong",
+          "score": 0.9916
+        }
+      ]
+    },
+    {
+      "file": "sign_8.jpg",
+      "texts": [
+        {
+          "text": "☆",
+          "score": 0.9963
+        },
+        {
+          "text": "三商鋪",
+          "score": 0.897
+        },
+        {
+          "text": "總覽",
+          "score": 0.9567
+        },
+        {
+          "text": "123包解店",
+          "score": 0.8961
+        },
+        {
+          "text": "卓興西丽房有限公司",
+          "score": 0.9195
+        },
+        {
+          "text": "德利美食",
+          "score": 0.9999
+        },
+        {
+          "text": "one",
+          "score": 0.9955
+        },
+        {
+          "text": "the fresh one MARKET",
+          "score": 1.0
+        },
+        {
+          "text": "市場·杏花",
+          "score": 0.9995
+        },
+        {
+          "text": "杏花工程有限公司",
+          "score": 0.9997
+        },
+        {
+          "text": "海怡專業洗衣店",
+          "score": 0.8459
+        },
+        {
+          "text": "好姊媒人力资源有限公司",
+          "score": 0.9168
+        },
+        {
+          "text": "9-10",
+          "score": 0.986
+        },
+        {
+          "text": "金旺食品超级市墙",
+          "score": 0.8913
+        },
+        {
+          "text": "11A14-18",
+          "score": 0.8141
+        },
+        {
+          "text": "12-13",
+          "score": 0.8629
+        },
+        {
+          "text": "佳駿五金",
+          "score": 0.9177
+        },
+        {
+          "text": "18-21",
+          "score": 0.8215
+        },
+        {
+          "text": "二合隆越址",
+          "score": 0.8203
+        },
+        {
+          "text": "杏花街市全新面貌",
+          "score": 1.0
+        },
+        {
+          "text": "富記蔬菜",
+          "score": 0.9658
+        },
+        {
+          "text": "22-24",
+          "score": 0.9954
+        },
+        {
+          "text": "25-26",
+          "score": 0.9978
+        },
+        {
+          "text": "凯源海鲜",
+          "score": 0.9199
+        },
+        {
+          "text": "27-28",
+          "score": 0.9971
+        },
+        {
+          "text": "杏花鲜鱼",
+          "score": 0.9874
+        },
+        {
+          "text": "天蕊鲜果",
+          "score": 0.9777
+        },
+        {
+          "text": "29",
+          "score": 0.995
+        },
+        {
+          "text": "元記豆腐",
+          "score": 0.9818
+        },
+        {
+          "text": "31A",
+          "score": 0.9942
+        },
+        {
+          "text": "購物樂趣星級享受",
+          "score": 0.9999
+        },
+        {
+          "text": "318",
+          "score": 0.9497
+        },
+        {
+          "text": "寶其利店",
+          "score": 0.953
+        },
+        {
+          "text": "31C",
+          "score": 0.9918
+        },
+        {
+          "text": "香港伍信鞋鎖店",
+          "score": 0.9062
+        },
+        {
+          "text": "有貨到",
+          "score": 0.9653
+        },
+        {
+          "text": "32",
+          "score": 1.0
+        },
+        {
+          "text": "33",
+          "score": 0.9999
+        },
+        {
+          "text": "廣東猪肉",
+          "score": 0.8156
+        },
+        {
+          "text": "35",
+          "score": 0.997
+        },
+        {
+          "text": "康泰牛肉",
+          "score": 0.9711
+        },
+        {
+          "text": "36",
+          "score": 0.9999
+        },
+        {
+          "text": "川奇蛋",
+          "score": 0.9984
+        },
+        {
+          "text": "健保堂凉茶",
+          "score": 0.9865
+        },
+        {
+          "text": "38-39",
+          "score": 0.9992
+        },
+        {
+          "text": "TOKO LIMA",
+          "score": 0.9869
+        },
+        {
+          "text": "佳駿水電冷氧维修",
+          "score": 0.9386
+        },
+        {
+          "text": "2023.2.1119:44",
+          "score": 0.9999
+        }
+      ]
+    },
+    {
+      "file": "sign_9.jpg",
+      "texts": [
+        {
+          "text": "品曆四十一年五月端陽日",
+          "score": 0.9592
+        },
+        {
+          "text": "工神極峻",
+          "score": 0.9819
+        },
+        {
+          "text": "世祖",
+          "score": 0.9923
+        }
+      ]
+    },
+    {
+      "file": "sign_10.jpg",
+      "texts": [
+        {
+          "text": "eadTalk",
+          "score": 0.9671
+        },
+        {
+          "text": "PROJI",
+          "score": 0.9997
+        }
+      ]
+    }
+  ],
+  "postprocess": {
+    "score_threshold": 0.8,
+    "description": "low score filtered; common mis-recognition replaced"
+  }
+}
